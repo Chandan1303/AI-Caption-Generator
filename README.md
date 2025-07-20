@@ -7,7 +7,10 @@ npm install
 # Start the development server
 npm run dev
 
+## 🚀 Live Demo
 
+Check out the deployed version here:  
+👉 [AI Caption Generator](https://ai-caption-generator-nu.vercel.app/)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
